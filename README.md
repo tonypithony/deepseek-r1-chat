@@ -20,14 +20,15 @@ DeepSeek Code Companion is an AI-powered coding assistant that runs completely l
 Before running the app, make sure you have:
 
 1. **Python 3.8+** installed on your system
-2. **Ollama** installed from [ollama.ai](https://ollama.ai)
+2. **Ollama** installed from [ollama.com](https://ollama.com)
 3. The DeepSeek model pulled (instructions below)
 
 ## 📦 Installation
 
 1. **Clone the repository**
 bash
-git clone https://github.com/Rizwankaka/deepseek-r1-chat.git\
+git clone https://github.com/Rizwankaka/deepseek-r1-chat.git
+
 cd deepseek-r1-chat
 
 2. **Install dependencies**
