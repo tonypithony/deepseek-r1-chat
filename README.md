@@ -76,6 +76,7 @@ http://127.0.0.1:7860
 ```bash
 gradio
 langchain
+langchain-core
 langchain-ollama
 ```
 
