@@ -27,11 +27,10 @@ Before running the app, make sure you have:
 
 1. **Clone the repository**
 bash
-git clone https://github.com/Rizwankaka/deepseek-r1-chat.git
-
+git clone https://github.com/Rizwankaka/deepseek-r1-chat.git\
 cd deepseek-r1-chat
 
-3. **Install dependencies**
+2. **Install dependencies**
 
 ```bash
 pip install -r requirements.txt
