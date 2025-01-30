@@ -27,8 +27,8 @@ Before running the app, make sure you have:
 
 1. **Clone the repository**
 bash
-git clone https://github.com/yourusername/deepseek-code-companion.git
-cd deepseek-code-companion
+git clone https://github.com/Rizwankaka/deepseek-r1-chat.git
+cd deepseek-r1-chat
 
 2. **Install dependencies**
 
@@ -67,9 +67,9 @@ http://127.0.0.1:7860
 ## 🛠️ Built With
 
 - [Gradio](https://www.gradio.app/) - Web interface
-- [LangChain](https://python.langchain.com/) - LLM framework
-- [Ollama](https://ollama.ai/) - Local model serving
-- [DeepSeek-r1](https://ollama.ai/library/deepseek-r1) - Language model
+- [LangChain](https://langchain.com/) - LLM framework
+- [Ollama](https://ollama.com/) - Local model serving
+- [DeepSeek-r1](https://ollama.com/library/deepseek-r1) - Language model
 
 ## 📝 Requirements
 
@@ -162,4 +162,4 @@ pip install -r requirements.txt
 
 ---
 
-Made with ❤️ by the community, for the community
+Made with ❤️ by Rizwan Rizwan, for the community
